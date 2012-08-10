@@ -1,0 +1,13 @@
+{
+  "name": "ipa.closer",
+  "version": "0.0.0",
+  "main": "ipa.closer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "brik.ipa.client": "~0.1.0",
+    "brik.ipa.feed": "~0.1.0"
+  }
+}
